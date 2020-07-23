@@ -3,7 +3,7 @@
 # vuecli4 d3v5 力导向图示例(封装组件)
 
 ### 项目简介
-前段时间接到一个项目，参考这个网站https://www.ownthink.com/（思知），做一个类似功能的知识图谱功能的平台。需要使用D3V5开发，所以就做了这么一个demo程序。
+前段时间接到一个项目，参考这个网站https://www.ownthink.com/  （思知），做一个类似功能的知识图谱功能的平台。需要使用D3V5开发，所以就做了这么一个demo程序。
 使用d3v5开发的ForceDirected的vue组件，方便灵活使用。
 
 本项目参考官方示例：https://gywgithub.github.io/vue-d3-examples/#/examples/forcedirected  
